@@ -1,0 +1,12 @@
+# API key
+.env
+
+# Virtual environment
+.venv/
+
+# Output file(s)
+gemini_response.*
+
+# Complied Python bytecode files
+__pycache__/
+*.pyc
