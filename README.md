@@ -49,7 +49,7 @@ Note: These will require API access to run and it may cost you money.
 
 ## LLMs with Google
 
-For more information about Google AI Studio, see [here](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart).
+For more information about Google AI Studio, see the [AI Studio Quickstart](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart), and the [Getting Started: Python](https://ai.google.dev/gemini-api/docs/get-started/python) pages.
 
 
 ## Projects in this Repo

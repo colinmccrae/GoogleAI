@@ -1,12 +1,3 @@
-"""
-Install the Google AI Python SDK
-
-$ pip install google-generativeai
-
-See the getting started guide for more information:
-https://ai.google.dev/gemini-api/docs/get-started/python
-"""
-
 import os
 import google.generativeai as genai
 from dotenv import load_dotenv
